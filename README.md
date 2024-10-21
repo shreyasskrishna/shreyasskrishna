@@ -5,7 +5,7 @@
 
 &ensp;
 
-- `Full-Stack` Developer & `UI\UX` Designer.
+- `Machine_Learning & Gen AI` Developer & `UI\UX` Designer.
 <!-- - a well-grounded `Rubyist`. -->
 <!-- - Having fun with `SVG` animations -->
 - Checkout my projects!
