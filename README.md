@@ -1,6 +1,6 @@
 ## 🌟 *Hey there* 👋
 
-<h2 align="center">I'm SHREYASS KRISHNA S A</h2>
+<h2 align="center">I'm SHREYAaa</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Machine+Learning+%26+Gen+AI+Developer;Passionate+Problem+Solver;Open+to+Collaboration!"/>
