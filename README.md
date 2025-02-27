@@ -29,16 +29,9 @@
 
 ---
 
-### 📂 Checkout My Projects!  
-
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmithar&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
+  <img alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=lokmithar&theme=simple&hide_border=true">
 </p>
-
-<p align="center">
-  <img alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=lokmithar&theme=tokyonight-duo&hide_border=true">
-</p>
-
 ---
 
 ### 💬 Let's Connect!
@@ -47,13 +40,6 @@
   <a href="shreyasskrishan09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/shreyasskrishna" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
-
-### 🏆 Achievements & Certifications
-- 🏅 **Certified in Machine Learning & Deep Learning**
-- 🎖️ **Completed various AI & Networking projects**
-- 📜 **Published articles on AI advancements**
 
 ---
 
