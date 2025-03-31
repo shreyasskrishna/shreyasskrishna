@@ -1,11 +1,14 @@
-## 🌟 *Hey there* 👋
+## 🌟 *Hey there i am Shreyass Krishna S A* 👋
 
-<h2 align="center">I'm SHREYASS KRISHNA S A</h2>
-<h5 align="center">Developer from Tamil Nadu -INDIA</h5>
+<h4>Dev from Tamil Nadu, India</h4>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Machine+Learning+%26+Gen+AI+Developer;Passionate+Problem+Solver;Open+to+Collaboration!"/>
 </p>
+
+- 🎯 LinkedIn website: [LinkedIn](https://www.linkedin.com/in/shreyass-krishna/)  
+- 🎯 Portfolio website: [Portfolio](https://shreyasskrishna.github.io/SK_website.io/)
 
 ---
 
