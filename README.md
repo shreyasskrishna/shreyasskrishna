@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Machine+Learning+%26+Gen+AI+Developer;Passionate+Problem+Solver;Open+to+Collaboration!"/>
 </p>
 
-- 🎯 LinkedIn website: [LinkedIn](https://www.linkedin.com/in/shreyass-krishna/)  
+- 🎯 LinkedIn websit: [LinkedIn](https://www.linkedin.com/in/shreyass-krishna/)  
 - 🎯 Portfolio website: [Portfolio](https://shreyasskrishna.github.io/SK_website.io/)
 
 ---
