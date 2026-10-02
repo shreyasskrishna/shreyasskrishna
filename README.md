@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-Hey! I'm **Shreyass Krishna S A**, an **AI/ML Engineer at Movate Technologies**, based in Tamil Nadu, India.
+Hey! I'm **Shreyass Krishna S A**, an **AI/ML Engineer**, based in Tamil Nadu, India.
 
 I have around **2 years of experience** in AI, Generative AI and backend development, building intelligent applications and real-world AI-powered solutions.
 
